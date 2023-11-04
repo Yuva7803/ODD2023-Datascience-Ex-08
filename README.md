@@ -19,8 +19,8 @@ Apply data visualization techniques to identify the patterns of the data.
 
 # CODE
 ```
-NAME: GEORGE PAUL TONY . C
-Register Number : 212222040043
+NAME: yuvasri K S
+Register Number : 212221040188
 ```
 ```
 #Import required libraries
